@@ -4,8 +4,5 @@ Automatic Speech Recognition :
 
 	It is currently being developed using Python along with C/C++ integration. 
 
-	Just the first stage of development is complete (i.e. Feature extraction using Mel-scale Frequency Cepstral Coefficients (MFCC)). 
-
-	Python packages required for implementation and analysis : python3-numpy python3-scipy python3-matplotlib.
+	Python packages required for implementation and analysis : numpy, scipy, matplotlib.
 	
-	Source-code will be posted soon.
